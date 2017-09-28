@@ -7,4 +7,21 @@ and open the template in the editor.
     Created on : Sep 28, 2017, 10:23:38 AM
     Author     : tblackburn
 */
+body{
+    background-color: cornflowerblue;
+}
 
+h4{
+    color: white;
+    text-align: center;
+    font-size: 12;
+    font-style: normal
+}
+
+td{
+    color: White;
+}
+
+hr{
+    Color: White;
+}

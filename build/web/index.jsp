@@ -27,28 +27,28 @@
                 <tbody>
                     <tr>
                         <td>Hours Worked:</td>
-                        <td><input type="text" name="Hours" value="" size="50"> </td>
+                        <td><input type="text" name="Hours" value="" size="30"> </td>
 
                            
                     </tr>
                     
                      <tr>
                         <td>Hourly Pay:</td>
-                        <td><input type="text" name="Hourly" value="" size="50"> </td>
+                        <td><input type="text" name="Hourly" value="" size="30"> </td>
 
                            
                     </tr>
                     
                      <tr>
                         <td>Pre-Tax Deduct:</td>
-                        <td><input type="text" name="Pre" value="" size="50"> </td>
+                        <td><input type="text" name="Pre" value="" size="30"> </td>
 
                            
                     </tr>
                     
                      <tr>
                         <td>Post-Tax Deduct:</td>
-                        <td><input type="text" name="post" value="" size="50"> </td>
+                        <td><input type="text" name="post" value="" size="30"> </td>
 
                            
                     </tr>
